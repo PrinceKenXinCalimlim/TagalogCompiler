@@ -1,15 +1,15 @@
 # TagalogCompiler
+The Tagalog Compiler is a unique programming tool that uses Tagalog-based keywords and syntax to analyze and validate code. It’s designed to make programming more accessible and relatable, especially for learners who want to connect with programming concepts in their native language.
 
-### Overview
+This compiler is built around three key components. The lexical analyzer breaks down code into tokens, the syntax analyzer ensures the structure follows the rules of the language, and the semantic analyzer checks for logical consistency, such as proper variable declarations and assignments. These parts work together seamlessly to catch errors and provide feedback to the user. To make it even easier to use, the compiler includes a Graphical User Interface (GUI) that simplifies the process. Users can load code, run analyses, and see results in an organized layout. With its innovative approach, the Tagalog Compiler is both a learning tool and a practical resource for anyone looking to code in a Tagalog-based language.
 
-The Tagalog Compiler is a specialized tool designed to analyze and validate code written in a programming language inspired by Tagalog keywords and syntax. It combines lexical, syntax, and semantic analysis to ensure correctness, making it ideal for teaching programming concepts in a culturally relevant way.
 
-At its core, the compiler consists of modular components: the lexical analyzer identifies tokens, the syntax analyzer checks the structural integrity of the code, and the semantic analyzer verifies the logical accuracy of variable declarations and usage. Together, these components form a robust system for code validation.
+---
 
-The compiler also features a user-friendly Graphical User Interface (GUI), allowing users to interact with the tool intuitively. By integrating these functionalities, the Tagalog Compiler serves as both an educational resource and a practical programming tool for learners and developers alike.
+__Programmers:__
 
-### Group 7 Members (3BSCS-2):
-- Calimlim, Prince Ken Xin
-- Campos, Vince D.
-- Tamayo, Joaquin Elijah P.
-  
+Campos, Vince D.
+
+Calimlim, Prince Ken Xin
+
+Tamayo, Joaquin Elijah P.
